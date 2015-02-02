@@ -1,0 +1,22 @@
+{
+  "name": "todo",
+  "version": "0.0.0",
+  "authors": [
+    "joeeames <joeeames@gmail.com>"
+  ],
+  "keywords": [
+    "todo"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.12.2",
+    "velocity": "~1.2.1"
+  }
+}
